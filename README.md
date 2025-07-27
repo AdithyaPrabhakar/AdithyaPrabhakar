@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithya Prabhakar</h1>
+<h1 align="center">Hello World, I'm Adithya Prabhakar</h1>
 <h3 align="center">Final-year Computer Science Engineering student at Dayananda Sagar College, driven by a strong passion for software development and aspiring to build a career as a Software Engineer.</h3>
 
 - 📫 How to reach me **adithya.prabhakar2004@gmail.com**
